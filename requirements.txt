@@ -1,0 +1,9 @@
+langchain==0.2.12
+langchain-core >=0.3.70, <1.0.0
+
+langchain-google-genai
+langchain-community
+faiss-cpu
+PyPDF2
+sentence-transformers
+python-dotenv
